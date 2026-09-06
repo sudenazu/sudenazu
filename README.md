@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Sudenaz 👋
 
-<!--
-**sudenazu/sudenazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Software & Game Developer** focused on creating interactive experiences, mobile games, and software solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** C#, Python,
+- **Game Engine & 3D:** Unity, Blender, URP
+- **Tools & Productivity:** Git, GitHub, LibreSprite, AutoCAD, MS Excel
+
+---
+
+### 📬 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/sudenaz-ulusay](https://linkedin.com)
+- **Portfolio / Projects:** Check out my repositories below!
